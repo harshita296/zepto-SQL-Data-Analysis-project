@@ -109,5 +109,4 @@ CREATE TABLE zepto (
 - Measured total inventory weight per product category
 
 
-## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
 
